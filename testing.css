@@ -1,0 +1,11 @@
+body {
+	background: pink;
+	font-family: "Authentic Sans", sans-serif;
+}
+
+@font-face {
+  font-family: "Authentic Sans";
+  font-style: normal;
+/*  font-weight: 200;
+*/  src: url("AUTHENTICSans-60.woff"), url("AUTHENTICSans-60.woff2");
+}
